@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import { Button, Form } from 'react-bootstrap';
-import { useEffect, useState } from "react"
+import { useState } from "react"
 const axios = require('axios');
 
 function App() {
